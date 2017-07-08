@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>f289ce6e-d143-4269-9f80-fe1324a24423</TargetProject>
+    <FriendlyName>Module6MakingDecisionWithcode</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\kjamy\AppData\Local\Temp\Module6MakingDecisionWithcode_20160524.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
