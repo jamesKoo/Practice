@@ -98,7 +98,7 @@ ENV/
 .ropeproject
 
 # idea
-./idea/
+.idea/
 
 # End of https://www.gitignore.io/api/python
 /Tensorflow/모두를_위한_딥러닝/.ipynb_checkpoints/
