@@ -21,6 +21,8 @@
 - Chapter1 - Function
 - Chapter2 - Field
 - Chapter3 - Vector 
+- Chapter4 - Vector Space
+- Chapter5 - Matrix
 
 ### Python
 - Introduction to Programming with Python by Mircrosoft Virture Academy
