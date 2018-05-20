@@ -102,3 +102,9 @@ ENV/
 
 # End of https://www.gitignore.io/api/python
 /Tensorflow/모두를_위한_딥러닝/.ipynb_checkpoints/
+DeepLearning/tf-dann/MNIST_data/t10k-images-idx3-ubyte.gz
+DeepLearning/tf-dann/MNIST_data/t10k-labels-idx1-ubyte.gz
+DeepLearning/tf-dann/MNIST_data/train-images-idx3-ubyte.gz
+DeepLearning/tf-dann/MNIST_data/train-labels-idx1-ubyte.gz
+DeepLearning/tf-dann/BSR_bsds500.tgz
+DeepLearning/tf-dann/mnistm_data.pkl
