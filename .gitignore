@@ -108,3 +108,5 @@ DeepLearning/tf-dann/MNIST_data/train-images-idx3-ubyte.gz
 DeepLearning/tf-dann/MNIST_data/train-labels-idx1-ubyte.gz
 DeepLearning/tf-dann/BSR_bsds500.tgz
 DeepLearning/tf-dann/mnistm_data.pkl
+
+\.DS_Store
